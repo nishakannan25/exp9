@@ -1,1 +1,1 @@
-Git Branching Experiment - Feature Branch Update
+Git Branching Experiment - Main Branch Update
